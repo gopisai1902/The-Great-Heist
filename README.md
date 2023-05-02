@@ -30,7 +30,9 @@ even if he Answers everything correctly.
 
 ### `clone current repo by`:  [https://github.com/gopisai1902/The-Great-Heist.git](https://github.com/gopisai1902/The-Great-Heist.git)
 
-### ` npm i` : Install all package.json dependencies
+### ` npm i` 
+
+Install all package.json dependencies
 ### `npm start`
 
 Runs the app in the development mode.\
