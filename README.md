@@ -13,7 +13,7 @@ The soft skills that I have involved in  this project are:
 ## Way to win the game
 The player goes through 5 levels, Each level representing a single question.There is a token and a key present in Level 3. If the user is able to solve all the questions correctly and had picked both the token and the key then the game will be successfully completed.
 
-#Deadends in the game
+##Deadends in the game
 1. If a player does any Questions wrong, then he is diverted to a Extra question.
 If he also fails to answer the extra question correctly then he is defeated. 
 2. If the Player answers the extra question correctly,then he can come back and retry the question he did wrong. After coming back the player should answer every question correctly, if he fails to answer coming questions correctly then the player is considered as defeated.
