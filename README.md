@@ -2,7 +2,13 @@
 
 The aim of this project is to assess the soft skills of its users (eg - eye for detail, perseverance, curiosity, etc.)
 
-## Available Scripts
+## Softskills Assessed
+The soft skills that I have involved in  this project are
+1. Testing the intelligence, 
+2. Testing logical thinking, 
+3. Testing the vision,
+4. Testing perseverance,
+4. Building curiosity in users.
 
 In the project directory, you can run:
 
