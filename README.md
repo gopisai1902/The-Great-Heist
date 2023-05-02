@@ -1,9 +1,9 @@
 # The Great Heist
 
-The aim of this project is to assess the soft skills of its users (eg - eye for detail, perseverance, curiosity, etc.)
+The Great Heist is a web app. This is actually a game which commits to assess the soft skills of the players.
 
 ## Softskills Assessed
-The soft skills that I have involved in  this project are
+The soft skills that I have involved in  this project are:
 1. Testing the intelligence, 
 2. Testing logical thinking, 
 3. Testing the vision,
