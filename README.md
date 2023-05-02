@@ -11,7 +11,7 @@ The soft skills that I have involved in  this project are:
 4. Building curiosity in users.
 
 ## Way to win the game
-The player goes through 5 levels, Each level representing a single question.There is a token and a key present in Level 3. If the user is able to solve all the questions correctly and had picked both the token and the key then the game will be successfully completed.
+1. The player goes through 5 levels, Each level representing a single question.There is a token and a key present in Level 3. If the user is able to solve all the questions correctly and had picked both the token and the key then the game will be successfully completed.
 
 
 ## Deadends in the game
