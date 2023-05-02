@@ -1,6 +1,6 @@
 # The Great Heist
 
-The Great Heist is a web app. This is actually a game which commits to assess the soft skills of the players.
+The Great Heist is a web application. This is actually a game which commits to assess the soft skills of the players. The player goes through 5 levels, Each level representing a single question.There is a token and a key present in Level 3. If the user is able to solve all the questions correctly and had picked both the token and the key then the game will be successfully completed.
 
 ## Softskills Assessed
 The soft skills that I have involved in  this project are:
@@ -10,7 +10,16 @@ The soft skills that I have involved in  this project are:
 4. Testing perseverance,
 4. Building curiosity in users.
 
+## Way to win the game
+1. The player goes through 5 levels, Each level representing a single question.There is a token and a key present in Level 3. If the user is able to solve all the questions correctly and had picked both the token and the key then the game will be successfully completed.
 In the project directory, you can run:
+
+##Deadends in the game
+1. If a player does any Questions wrong, then he is diverted to a Extra question.
+If he also fails to answer the extra question correctly then he is defeated. 
+2. If the Player answers the extra question correctly,then he can come back and retry the question he did wrong. After coming back the player should answer every question correctly, if he fails to answer coming questions correctly then the player is considered as defeated.
+3. There is a Key and a Token Placed in Question 3. If the Player fails to pick any of them, the player gets defeated  
+even if he Answers everything correctly.
 
 ### `npm start`
 
