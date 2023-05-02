@@ -22,6 +22,16 @@ If he also fails to answer the extra question correctly then he is defeated.
 even if he Answers everything correctly.
 
 ## Steps to set up the project
+### `Install Git`
+
+### `Install Node` 
+
+### `Install Favourite Code Editor (like VS Code)`
+
+### `clone current repo by:
+
+Open [http://localhost:3000](http://localhost:3000)
+
 ### `npm start`
 
 Runs the app in the development mode.\
