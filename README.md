@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# The Great Heist
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The aim of this project is to assess the soft skills of its users (eg - eye for detail, perseverance, curiosity, etc.)
 
 ## Available Scripts
 
