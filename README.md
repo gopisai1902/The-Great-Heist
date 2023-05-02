@@ -54,7 +54,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Testcases
 
-## Solution for Questions.
+## Solution for Questions
 
 ## Netlify Link
 
