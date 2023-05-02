@@ -21,6 +21,7 @@ If he also fails to answer the extra question correctly then he is defeated.
 3. There is a Key and a Token Placed in Question 3. If the Player fails to pick any of them, the player gets defeated  
 even if he Answers everything correctly.
 
+## Steps to set up the project
 ### `npm start`
 
 Runs the app in the development mode.\
