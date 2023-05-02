@@ -28,7 +28,7 @@ even if he Answers everything correctly.
 
 ### `Install Favourite Code Editor (like VS Code)`
 
-### `clone current repo by: [https://github.com/gopisai1902/The-Great-Heist.git](https://github.com/gopisai1902/The-Great-Heist.git)
+### `clone current repo by`: [https://github.com/gopisai1902/The-Great-Heist.git](https://github.com/gopisai1902/The-Great-Heist.git)
 
 ### `npm start`
 
