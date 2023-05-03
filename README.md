@@ -69,6 +69,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
    first question is answered correctly, the player moves on to level-2, second question is answered incorrectly.(The player is defeated)   
 
 ## Solution for Questions
+### ` Q1) Five girls are sitting on a bench to be photographed. Seema is to the left of Rani and to the right of Bindu. Mary is to the right of Rani.
+Reeta is between Rani and Mary.Who is sitting immediate right to Reeta ?? `
 
 ## Netlify Link
 
