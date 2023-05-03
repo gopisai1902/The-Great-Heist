@@ -1,6 +1,6 @@
 # The Great Heist
 
-The Great Heist is a web application. This is actually a game which commits to assess the soft skills of the players. The player goes through 5 levels, Each level representing a single question.There is a token and a key present in Level 3. If the user is able to solve all the questions correctly and had picked both the token and the key then the game will be successfully completed.
+The Great Heist is a web application. This is actually a game which commits to assess the soft skills of the players. The player goes through 5 levels, each level representing a single question.There is a token and a key present in Level 3. If the user is able to solve all the questions correctly and had picked both the token and the key then the game will be successfully completed.
 
 ## Softskills Assessed
 The soft skills that I have involved in  this project are:
