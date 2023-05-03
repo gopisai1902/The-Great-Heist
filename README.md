@@ -52,7 +52,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Checklist of implemented features
 1. Anyone with an email address can create an Id and password to participate in the game.
-2. The puzzle contains
+2. The puzzle contains:
 + Minimum 5 clues
 - Minimum 2 dead-ends
 * Minimum 1 solution 
@@ -79,6 +79,7 @@ Reeta is between Rani and Mary.Who is sitting immediate right to Reeta? - b)Mary
 5. Level-5 : Solve the word puzzle to open the vault where Diamond lies. c)2
 
 ## Netlify Link
+### `Hosted the app using Netlify`  Open [https://the-great-heist.netlify.app](https://the-great-heist.netlify.app)
 
 
 
