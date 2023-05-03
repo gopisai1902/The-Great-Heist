@@ -57,7 +57,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 - Minimum 2 dead-ends
 * Minimum 1 solution 
 3. All the progress  that is  user data is stored for every user.
-4. A dashboard for the admin where the progress of all the users can\ be tracked & analyzed.
+4. A dashboard for the admin where the progress of all the users can be tracked & analyzed.
 5. User analytics is stored and shown in the admin dashboard.
 6. Data analysis using different graphs or tables is done
 + The 4,5,6 requirements can be seen in the admin page. Go to analytics in admin page.
