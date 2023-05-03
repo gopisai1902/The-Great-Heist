@@ -69,8 +69,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
    first question is answered correctly, the player moves on to level-2, second question is answered incorrectly.(The player is defeated)   
 
 ## Solution for Questions
-### ` Q1) Five girls are sitting on a bench to be photographed. Seema is to the left of Rani and to the right of Bindu. Mary is to the right of Rani.
-Reeta is between Rani and Mary.Who is sitting immediate right to Reeta  `
+1. Five girls are sitting on a bench to be photographed. Seema is to the left of Rani and to the right of Bindu. Mary is to the right of Rani.
+Reeta is between Rani and Mary.Who is sitting immediate right to Reeta? - b)Mary
+2. Assume every person in the museum blinks their eye for every 5 modulo sec. Current time = 02:09:31 PM. (Hours : Minutes : Seconds). What would be the nearest time to trigger the alarm safely? - d)02:09:35 PM
+3. Solve the maze to fing the second key? - a)24
+4. In some coding language, security is coded as vhfxulwb. what is the word lazer coded as?(Hint : Decrypt by following substitution Cipher) - d)odchu
+5. Solve the word puzzle to open the vault where Diamond lies. c)2
 
 ## Netlify Link
 
