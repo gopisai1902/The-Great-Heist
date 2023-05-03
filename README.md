@@ -53,9 +53,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Checklist of implemented features
 1. Anyone with an email address can create an Id and password to participate in the game.
 2. The puzzle contains
-+Minimum 5 clues
--Minimum 2 dead-ends
-*Minimum 1 solution 
++ Minimum 5 clues
+- Minimum 2 dead-ends
+* Minimum 1 solution 
 3. All the progress  that is  user data is stored for every user.
 4. A dashboard for the admin where the progress of all the users can\ be tracked & analyzed.
 5. User analytics is stored and shown in the admin dashboard.
