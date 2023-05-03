@@ -51,8 +51,22 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Checklist of implemented features
+1. Anyone with an email address can create an Id and password to participate in the game.
+2. The puzzle contains
++Minimum 5 clues
+-Minimum 2 dead-ends
+*Minimum 1 solution 
+3. All the progress  that is  user data is stored for every user.
+4. A dashboard for the admin where the progress of all the users can\ be tracked & analyzed.
+5. User analytics is stored and shown in the admin dashboard.
+6. Data analysis using different graphs or tables is done
 
 ## Testcases
+1. First question is answered correctly, the player moves on to level-2, second question is answered correctly, the player moves on to level-3, third question is answered correctly, The player picks up both the key and the token, the player moves on to level-4 , fourth question is answered correctly, the player moves to the final level, fifth question is answered correctly.(The player wins.)
+2. First question is answered correctly, the player moves on to level-2, second question is answered correctly, the player moves on to level-3, third question is answered correctly, The player picks only the key, the player moves on to level-4 , fourth question is answered correctly, the player moves to the final level, fifth question is answered correctly.(The player looses as he forgot to pick the token in level-3)
+3. First question is answered correctly, the player moves on to level-2, second question is answered correctly, the player moves on to level-3, third question is answered correctly, The player picks only the token, the player moves on to level-4 , fourth question is answered correctly, the player moves to the final level, fifth question is answered correctly.(The player looses as he forgot to pick the token in level-3.)
+4. In Level-1, First question is answered incorrectly, the player moves to level-0, zeroth level questin is answered correctly, the playes again comes to level-1,
+   first question is answered correctly, the player moves on to level-2, second question is answered incorrectly.(The player is defeated)   
 
 ## Solution for Questions
 
