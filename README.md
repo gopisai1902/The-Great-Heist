@@ -79,7 +79,7 @@ Reeta is between Rani and Mary.Who is sitting immediate right to Reeta? - b)Mary
 5. Level-5 : Solve the word puzzle to open the vault where Diamond lies. c)2
 
 ## Netlify Link
-### `Hosted the app using Netlify`  Open [https://the-great-heist.netlify.app](https://the-great-heist.netlify.app)
+### `Hosted the app using Netlify`  Open [https://the-great-heist.netlify.app](https://the-great-heist.netlify.app) to play the game on your browser.
 
 
 
